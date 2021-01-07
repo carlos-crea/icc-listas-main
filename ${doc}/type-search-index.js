@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"icc.listas","l":"BlockBoster"},{"p":"icc.listas","l":"Lista"},{"p":"icc.listas","l":"Listable"},{"p":"icc.listas","l":"Nodo"},{"p":"icc.listas","l":"Pelicula"}]
